@@ -1,3 +1,1 @@
 # programming-foundations
-
-ciao
