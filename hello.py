@@ -6,4 +6,4 @@
 name = input("What is your name? ")
 
 # Show a greeting. The comma puts a space between the parts.
-print("Hello,", name)
+print("Hello, Simone!")
